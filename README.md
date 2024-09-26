@@ -1,4 +1,4 @@
-# Resumo do lab beneficios da nuvem
+# Resumo do lab: Benefícios da nuvem
 ### Bootcamp XP inc. - Full Stack Developer na DIO
 
 ## Os benefícios da nuvem
